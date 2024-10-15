@@ -12,3 +12,9 @@ function getRandomQuote() {
 }
 
 document.getElementById('quote-button').addEventListener('click', getRandomQuote);
+
+function repeatvalue() {
+         var txtName = document.getElementById("Username");
+         var lblName = document.getElementById("label");
+         lblName.innerHTML = txtName.value;
+      }
