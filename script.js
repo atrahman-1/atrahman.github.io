@@ -1,9 +1,25 @@
 const quotes = [
-    "The only limit to our realization of tomorrow is our doubts of today.",
-    "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-    "Life is 10% what happens to us and 90% how we react to it.",
-    "Your time is limited, so don’t waste it living someone else’s life.",
-    "The best way to predict the future is to create it."
+    "The Sopranos",
+    "Breaking Bad",
+    "Better Call Saul",
+    "The Wire",
+    "BMF",
+    "Power",
+    "Dexter",
+    "The Walking Dead",
+    "Squid Game",
+    "Prison Break",
+    "Top Boy",
+    "Shutter Island",
+    "Catch Me If You Can",
+    "Django Unchained",
+    "The Wolf Of Wall Street",
+    "John Wick",
+    "Fight Club",
+    "Se7en",
+    "Slumdog Millionare",
+    "Green Book"
+
 ];
 
 function getRandomQuote() {
