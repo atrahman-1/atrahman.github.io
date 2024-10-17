@@ -15,14 +15,7 @@ body {
     background-color: lightblue;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-{
-    margin: 0;
-    height: 100vh;
-    background-image: url('https://images.ctfassets.net/y2ske730sjqp/5QQ9SVIdc1tmkqrtFnG9U1/de758bba0f65dcc1c6bc1f31f161003d/BrandAssets_Logos_02-NSymbol.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+
 h1 {
     color: #83cff7;
 }
@@ -38,7 +31,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #FFD700;
 }
 
 #quote-display {
