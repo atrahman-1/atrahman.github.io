@@ -15,6 +15,10 @@ body {
     background-color: transparent;
 }
 
+.bottom-container {
+    margin-top: auto;
+}
+
 h1 {
     color: #ffffff;
 }
